@@ -1,8 +1,4 @@
 
-.img-holder img {
-  display: block !important; /* Forces the image to display */
-  height: auto !important; /* Maintains aspect ratio */
-}
 
 
 :root {

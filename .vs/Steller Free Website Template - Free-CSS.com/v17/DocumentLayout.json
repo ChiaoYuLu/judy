@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\public_html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:steller\\public_html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\public_html\\components.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:steller\\public_html\\components.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\public_html\\assets\\css\\steller.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:steller\\public_html\\assets\\css\\steller.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\gulpfile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:steller\\gulpfile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:steller\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:steller\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\LICENSE.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:steller\\LICENSE.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 645,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "steller.css",
+              "DocumentMoniker": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\public_html\\assets\\css\\steller.css",
+              "RelativeDocumentMoniker": "steller\\public_html\\assets\\css\\steller.css",
+              "ToolTip": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\public_html\\assets\\css\\steller.css",
+              "RelativeToolTip": "steller\\public_html\\assets\\css\\steller.css",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T10:49:34.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\public_html\\index.html",
+              "RelativeDocumentMoniker": "steller\\public_html\\index.html",
+              "ToolTip": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\public_html\\index.html",
+              "RelativeToolTip": "steller\\public_html\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-18T10:49:08.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "components.html",
+              "DocumentMoniker": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\public_html\\components.html",
+              "RelativeDocumentMoniker": "steller\\public_html\\components.html",
+              "ToolTip": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\public_html\\components.html",
+              "RelativeToolTip": "steller\\public_html\\components.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-18T10:49:07.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\README.txt",
+              "RelativeDocumentMoniker": "steller\\README.txt",
+              "ToolTip": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\README.txt",
+              "RelativeToolTip": "steller\\README.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-18T10:49:04.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\package.json",
+              "RelativeDocumentMoniker": "steller\\package.json",
+              "ToolTip": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\package.json",
+              "RelativeToolTip": "steller\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T10:49:02.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LICENSE.txt",
+              "DocumentMoniker": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\LICENSE.txt",
+              "RelativeDocumentMoniker": "steller\\LICENSE.txt",
+              "ToolTip": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\LICENSE.txt",
+              "RelativeToolTip": "steller\\LICENSE.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-18T10:49:02.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gulpfile.js",
+              "DocumentMoniker": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\gulpfile.js",
+              "RelativeDocumentMoniker": "steller\\gulpfile.js",
+              "ToolTip": "C:\\Users\\judym\\Downloads\\Steller Free Website Template - Free-CSS.com\\steller\\gulpfile.js",
+              "RelativeToolTip": "steller\\gulpfile.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-18T10:48:59.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
